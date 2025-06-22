@@ -66,4 +66,14 @@ Make sure ESLint is configured for React.
 
 🧳 Deployment
 Deployed to Vercel
-https://cash-reg-fe.vercel.app
+https://mybasketapp.vercel.app
+
+
+📄 Nice to Add
+Connect to backend on production
+Update individual cart page with more details (product name, qty)
+More Cart management capability
+Markdown with clickable links
+Add proper transitions per page (ie. loading spinners)
+Add auth login page to only see individual carts
+Add testings
